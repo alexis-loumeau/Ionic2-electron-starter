@@ -20,3 +20,7 @@ Currently `gulp build` will build the web, android and ios apps and `gulp electr
 - task to build all applications with one command
 - task to do a full release process, with auto versioning, etc.
 - add auto-updating with https://www.npmjs.com/package/electron-builder
+
+
+## be careful
+if you are developping in windows it's necessary to adapt scripts command in package.json
